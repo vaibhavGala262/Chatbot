@@ -1,7 +1,4 @@
 streamlit
 pdfplumber
-chromadb
-sentence-transformers
-scikit-learn
-langchain
-langchain-huggingface
+python-dotenv
+langchain-google-genai
