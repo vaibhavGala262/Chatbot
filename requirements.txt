@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+chromadb
+sentence-transformers
+scikit-learn
+langchain
+langchain-huggingface
